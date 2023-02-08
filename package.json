@@ -1,0 +1,41 @@
+{
+  "name": "word-snatchers-cli-nuts-plugin",
+  "version": "1.0.0",
+  "description": "Nuts plugin for word-snatchers-cli",
+  "license": "MIT",
+  "repository": "https://github.com/akgondber/word-snatchers-cli-nuts-plugin",
+  "author": "Rushan Alyautdinov <akgondber@gmail.com>",
+  "type": "module",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "uvu tests",
+    "prettify": "prettier --write ."
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "consolegame",
+    "cli",
+    "wordsnatcherscliplugin",
+    "word-snatchers-cli-plugin",
+    "word-snatchers-cli",
+    "plugin",
+    "english",
+    "learning",
+    "training",
+    "practicing",
+    "words",
+    "game",
+    "play",
+    "nut",
+    "nuts"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "uvu": "^0.5.6",
+    "prettier": "^2.8.4"
+  }
+}
